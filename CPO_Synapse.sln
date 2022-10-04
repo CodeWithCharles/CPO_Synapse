@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPO_Synapse", "CPO_Synapse\CPO_Synapse.csproj", "{55FF5F65-DA3B-4282-BCAF-E8CF62B2A680}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPO_Synapse_Tests", "CPO_Synapse_Tests\CPO_Synapse_Tests.csproj", "{ED039448-EB23-4A5B-BBE8-2C298DE2C1D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55FF5F65-DA3B-4282-BCAF-E8CF62B2A680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55FF5F65-DA3B-4282-BCAF-E8CF62B2A680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55FF5F65-DA3B-4282-BCAF-E8CF62B2A680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55FF5F65-DA3B-4282-BCAF-E8CF62B2A680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED039448-EB23-4A5B-BBE8-2C298DE2C1D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED039448-EB23-4A5B-BBE8-2C298DE2C1D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED039448-EB23-4A5B-BBE8-2C298DE2C1D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED039448-EB23-4A5B-BBE8-2C298DE2C1D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9AB651B-5F66-4DF5-9EC5-D0A6BB84B2B3}
+	EndGlobalSection
+EndGlobal

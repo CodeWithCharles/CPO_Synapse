@@ -1,0 +1,14 @@
+C:\Users\Charles\source\repos\CPO_Synapse_01\CPO_Synapse\bin\Debug\netcoreapp3.1\CPO_Synapse.exe
+C:\Users\Charles\source\repos\CPO_Synapse_01\CPO_Synapse\bin\Debug\netcoreapp3.1\CPO_Synapse.deps.json
+C:\Users\Charles\source\repos\CPO_Synapse_01\CPO_Synapse\bin\Debug\netcoreapp3.1\CPO_Synapse.runtimeconfig.json
+C:\Users\Charles\source\repos\CPO_Synapse_01\CPO_Synapse\bin\Debug\netcoreapp3.1\CPO_Synapse.runtimeconfig.dev.json
+C:\Users\Charles\source\repos\CPO_Synapse_01\CPO_Synapse\bin\Debug\netcoreapp3.1\CPO_Synapse.dll
+C:\Users\Charles\source\repos\CPO_Synapse_01\CPO_Synapse\bin\Debug\netcoreapp3.1\CPO_Synapse.pdb
+C:\Users\Charles\source\repos\CPO_Synapse_01\CPO_Synapse\obj\Debug\netcoreapp3.1\CPO_Synapse.csproj.AssemblyReference.cache
+C:\Users\Charles\source\repos\CPO_Synapse_01\CPO_Synapse\obj\Debug\netcoreapp3.1\CPO_Synapse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles\source\repos\CPO_Synapse_01\CPO_Synapse\obj\Debug\netcoreapp3.1\CPO_Synapse.AssemblyInfoInputs.cache
+C:\Users\Charles\source\repos\CPO_Synapse_01\CPO_Synapse\obj\Debug\netcoreapp3.1\CPO_Synapse.AssemblyInfo.cs
+C:\Users\Charles\source\repos\CPO_Synapse_01\CPO_Synapse\obj\Debug\netcoreapp3.1\CPO_Synapse.csproj.CoreCompileInputs.cache
+C:\Users\Charles\source\repos\CPO_Synapse_01\CPO_Synapse\obj\Debug\netcoreapp3.1\CPO_Synapse.dll
+C:\Users\Charles\source\repos\CPO_Synapse_01\CPO_Synapse\obj\Debug\netcoreapp3.1\CPO_Synapse.pdb
+C:\Users\Charles\source\repos\CPO_Synapse_01\CPO_Synapse\obj\Debug\netcoreapp3.1\CPO_Synapse.genruntimeconfig.cache
